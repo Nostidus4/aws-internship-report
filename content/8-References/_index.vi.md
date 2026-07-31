@@ -1,9 +1,9 @@
 ---
 title: "Tài liệu tham khảo"
 date: 2024-01-01
-weight: 7
+weight: 8
 chapter: false
-pre: " <b> 7. </b> "
+pre: " <b> 8. </b> "
 ---
 
 Phần này chứa các tài liệu học thuật, tài liệu tham khảo trong quá trình nhóm nghiên cứu để viết blog và triển khai dự án

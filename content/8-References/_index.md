@@ -1,9 +1,9 @@
 ---
 title: "References"
 date: 2024-01-01
-weight: 7
+weight: 8
 chapter: false
-pre: " <b> 7. </b> "
+pre: " <b> 8. </b> "
 ---
 
 This section contains academic documents, references during our group research for blog and implement the project
